@@ -173,3 +173,5 @@ Karena screenshot aplikasi diberikan dalam format image, file visual dapat disim
 ---
 
 *README ini dibuat untuk keperluan dokumentasi GitHub dan tidak mengubah file asli Unity (`Assets/Awal/` dan file `.cs`). Semua screenshot hanya dimasukkan sebagai referensi visual dalam dokumen ini.*
+
+lines 1-175
