@@ -62,6 +62,24 @@ Tampilan pemilihan jenis kelamin sebelum menampilkan avatar.
 
 ---
 
+### 7. AR Feature (Character in AR Mode)
+Tampilan karakter TNI yang muncul di real-time melalui kamera perangkat.
+
+![AR Feature](docs/images/screenshot_ar_feature.png)
+
+> **Keterangan:** Karakter TNI (Tentara Nasional Indonesia) yang menggunakan pose detection untuk mengikuti gerakan tubuh pengguna secara real-time. Karakter ini muncul di tengah layar dengan latar belakang webcam.
+
+---
+
+### 8. Informasi Profesi (TNI Info Panel)
+Tampilan detail informasi tentang profesi TNI yang dipilih.
+
+![TNI Info Panel](docs/images/screenshot_tni_info.png)
+
+> **Keterangan:** Panel informasi yang menampilkan tugas TNI (mengawal kawasan, melindungi kendaraan perangkat, dan berteman dengan memasang senjata), tempat bekelaj (Marsek TNI), serta alat kegunaan (Kepin, Senjata, Rempit, Remoal).
+
+---
+
 ## 🎯 Fitur Aplikasi
 
 | Fitur | Keterangan |
@@ -141,6 +159,8 @@ Karena screenshot aplikasi diberikan dalam format image, file visual dapat disim
 - `screenshot_panduan.png` — Panduan
 - `screenshot_pilihprofesi.png` — Pilih Profesi
 - `screenshot_pilihjk.png` — Pilih Jenis Kelamin
+- `screenshot_ar_feature.png` — AR Feature (Karakter TNI di real-time)
+- `screenshot_tni_info.png` — Informasi Profesi (TNI Info Panel)
 
 ---
 
